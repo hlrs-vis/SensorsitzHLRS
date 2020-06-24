@@ -1,0 +1,3 @@
+Hier liegt das Programm für den Messcomputer.
+
+Vor der Messung muss im Code festgelegt werden in welchen Ports die Verbindung zum Mikrocontroller erwartet wird (Standardmäßig ttyUSB0 und ttyUSB1), wie lange gemessen werden soll und wo die Logfiles gespeichert werden sollen.
